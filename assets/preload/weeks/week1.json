@@ -1,22 +1,30 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		[
+			"goldenin",
+			"gold",
+			[
+				235,
+				235,
+				235
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "",
 	"weekCharacters": [
-		"dad",
+		"menugold",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"storyName": "Lost silver",
+	"weekName": "lostsilver",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
