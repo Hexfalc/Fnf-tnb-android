@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menugold.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLE0000" x="0" y="0" width="450" height="567"/>
+	<SubTexture name="IDLE0001" x="0" y="0" width="450" height="567"/>
+	<SubTexture name="IDLE0002" x="450" y="0" width="450" height="564" frameX="0" frameY="-2" frameWidth="450" frameHeight="567"/>
+	<SubTexture name="IDLE0003" x="450" y="0" width="450" height="564" frameX="0" frameY="-2" frameWidth="450" frameHeight="567"/>
+	<SubTexture name="IDLE0004" x="900" y="0" width="450" height="567"/>
+	<SubTexture name="IDLE0005" x="900" y="0" width="450" height="567"/>
+	<SubTexture name="IDLE0006" x="1350" y="0" width="450" height="565" frameX="0" frameY="-1" frameWidth="450" frameHeight="567"/>
+	<SubTexture name="IDLE0007" x="1350" y="0" width="450" height="565" frameX="0" frameY="-1" frameWidth="450" frameHeight="567"/>
+</TextureAtlas>
