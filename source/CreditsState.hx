@@ -46,7 +46,9 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Android Port'],
+			['Android Port'],
+			['HexFalc',		    'hexfalc',		    'Coder and Porter of The Mod',	 'https://youtube.com/channel/UC6CIIVdSW0lseOysu408_EQ',	'0xFFFFBB1B'],
+            ['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
